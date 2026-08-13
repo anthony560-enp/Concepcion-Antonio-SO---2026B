@@ -1,2 +1,2 @@
-# ConcepcionAntonioSO2026B
+# ConcepcionAntonio_SO2026B
 Repositorio para la UA de SO 2026B de envidencias del periodo
